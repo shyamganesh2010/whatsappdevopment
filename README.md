@@ -1,2 +1,2 @@
 # whatsappdevopment
-This is my study pupose
+This is my study purpose
